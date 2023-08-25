@@ -13,7 +13,7 @@
 
     <x-layouts.navigation />
 
-    {{ $slot }}
+        {{ $slot }}
 </body>
 
 </html>
